@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PdfTronDwgToPdf": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
